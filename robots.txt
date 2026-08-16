@@ -1,0 +1,11 @@
+# Weston Warriors ABC
+# Everything here is public. Crawl it, index it, quote it.
+
+User-agent: *
+Allow: /
+Disallow: /.well-known/security.txt
+
+Sitemap: https://westonw.vercel.app/sitemap.xml
+
+# Machine-readable summary for language models
+# See: https://westonw.vercel.app/llms.txt
